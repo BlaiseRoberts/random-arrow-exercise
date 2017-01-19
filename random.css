@@ -1,0 +1,19 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	margin-left: 25%;
+}
+
+img {
+	max-height: 30em;
+	max-width: 30em;
+}
+
+.hidden {
+	display: none;
+}
+
+.visible {
+	display: block;
+}
